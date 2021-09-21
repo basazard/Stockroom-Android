@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1021548244733",
+    "firebase_url": "https://stockroom-eaba9-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "stockroom-eaba9",
+    "storage_bucket": "stockroom-eaba9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1021548244733:android:c7e850fe7554e1afc25894",
+        "android_client_info": {
+          "package_name": "com.example.stockroom"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1021548244733-sidkk19f8uklc6bkcobn1n9ed6ut9j63.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.stockroom",
+            "certificate_hash": "483d34e9bb1b7e4e53d47b5dca81675cd43e0456"
+          }
+        },
+        {
+          "client_id": "1021548244733-dsml4qpl7vnv275frgal1dhebnm6h3u2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyALD9qYRZsMraRlxIP2HqZycRTRElS9U4E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1021548244733-dsml4qpl7vnv275frgal1dhebnm6h3u2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
